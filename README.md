@@ -27,7 +27,7 @@ I'm a versatile developer, with experience in building web platforms.<br>I like 
 ```javascript
 const Esleban = {
     pronouns: "He" | "Him",
-    code: ["Javascript"],
+    code: ["Javascript", 'HTML', 'CSS',],
     askMeAbout: ["web dev", "tech", "app dev", "Disney movies"],
     technologies: {
         backEnd: {
