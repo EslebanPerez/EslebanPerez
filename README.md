@@ -1,5 +1,5 @@
 <h1 align="center">
-# Hello, I'm Esleban Pérez!! <img src="https://user-images.githubusercontent.com/99141560/167270557-85d44198-8338-45d1-bdc1-9236a38011b8.gif" width="30px"> 
+# Hello, I'm Esleban Pérez!! <img src="https://user-images.githubusercontent.com/99141560/167270557-85d44198-8338-45d1-bdc1-9236a38011b8.gif" width="30"> 
 </h1>
 
 <p align="center">
