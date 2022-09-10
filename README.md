@@ -1,5 +1,5 @@
 <h1 align="center">
-# Hello, I'm Esleban Pérez!! <img src="https://user-images.githubusercontent.com/99141560/167270557-85d44198-8338-45d1-bdc1-9236a38011b8.gif" width="30"> 
+Hello, I'm Esleban Pérez!! <img src="https://user-images.githubusercontent.com/99141560/167270557-85d44198-8338-45d1-bdc1-9236a38011b8.gif" width="30"> 
 </h1>
 
 <p align="center">
@@ -26,16 +26,17 @@ I'm a versatile developer, with experience in building web platforms.<br>I like 
 
 ```javascript
 const Esleban = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", 'HTML', 'CSS',],
-    askMeAbout: ["web dev", "tech", "app dev", "Disney movies"],
+    pronouns: "He" | "Him ",
+    code: ["JavaScript", 'HTML', 'CSS', 'Python' ],
+    askMeAbout: ["Web dev", "Tech", "Disney movies", ],
     technologies: {
-        backEnd: {
-            js: ["Node", "Express"],
+        backend: {
+            js: ["NodeJS", "Express"],
         },
-        frontEnd: {
-            css: ["Styled-Components", "CSS-in-JS"],
-            html: ["HTML", "HTML5", "HTML-in-JS"],  
+        frontend: {
+            css: ["CSS", "Tailwind"],
+            html: ["HTML", "Pug" ],
+            js: ["Angular"],
         },
         tools: {
             versionControl: ["Git", "GitHub"],
@@ -43,10 +44,29 @@ const Esleban = {
             devOps: ["GitHub Actions"],
             desing: ["Photoshop", "Illustrator", "Figma"],
         },
-        databases: ["Sql", "MySql", "postgres"],
+        databases: ["SQL", "MySQL", "PostgreSQL"],
     },
-    challenge: "I am doing the #100DaysOfCode challenge focused on Javascript and typescript"
+    challenge: "I am doing the #100DaysOfCode challenge focused on Javascript and Typescript"
 };
 ```
+### Also I Use 👨‍💻
+> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+> ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+> ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+> ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+### I'm currently learning 📙:
+> ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
+### Topics of Interest 💬
+- Cloud Computing ☁️
+- Web Development 🌐
+- Data Science ⚗️📊
+- AI 🤖🧠
+- UI / UX 🎨 
