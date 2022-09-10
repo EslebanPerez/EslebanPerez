@@ -36,15 +36,15 @@ const Esleban = {
         frontend: {
             css: ["CSS", "Tailwind"],
             html: ["HTML", "Pug" ],
-            js: ["Angular"],
+            js: ["Angular"]
         },
         tools: {
             versionControl: ["Git", "GitHub"],
             testing: ["Jest"],
             devOps: ["GitHub Actions"],
-            desing: ["Photoshop", "Illustrator", "Figma"],
+            desing: ["Photoshop", "Illustrator", "Figma"]
         },
-        databases: ["SQL", "MySQL", "PostgreSQL"],
+        databases: ["SQL", "MySQL", "PostgreSQL"]
     },
     challenge: "I am doing the #100DaysOfCode challenge focused on Javascript and Typescript"
 };
