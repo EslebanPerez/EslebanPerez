@@ -1,6 +1,7 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Esleban+P%C3%A9rez!)](https://git.io/typing-svg) <img src="https://user-images.githubusercontent.com/99141560/167270557-85d44198-8338-45d1-bdc1-9236a38011b8.gif" width="30"> 
-
+<h1 align="center">
+<img src="https://user-images.githubusercontent.com/99141560/167270557-85d44198-8338-45d1-bdc1-9236a38011b8.gif" width="45">  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=BDCBD9&center=true&vCenter=true&width=510&lines=Hello%2C+I'm+Esleban+P%C3%A9rez!+" alt="Typing SVG" /></a>
+</h1>
 
 <p align="center">
 <a href="https://github.com/EslebanPerez" target="_blank"><img alt="Github" 
