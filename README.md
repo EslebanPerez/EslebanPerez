@@ -20,10 +20,12 @@ src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.
 I'm a versatile developer, with experience in building web platforms.<br>I like accessibility, performance and robust code. In addition, I also like to help and communicate as much as I can. I usually answer questions or solve some issues on GitHub, Stack Overflow or on tech communities because that not only helps others, but also helps me. -->
 
 
+<img align='right' src="https://user-images.githubusercontent.com/99141560/201212164-c67dc3ce-8905-47a1-bdd5-a0e5838e20ad.png" width="380">
 
-<img align='right' src="https://i.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.webp" width="230">
+
 
 ### <img src="https://media2.giphy.com/media/j5hWF2V3RlNGItTkGc/200w.webp?cid=ecf05e47gsdsk9fybqr5foydbu97ekk8qukprzww2j7tvcwt&rid=200w.webp&ct=s" width="80"> A little more about me...  
+
 
 ```javascript
 const Esleban = {
@@ -50,6 +52,7 @@ const Esleban = {
     challenge: "I am doing the #100DaysOfCode challenge focused on Javascript and Typescript"
 };
 ```
+
 ### Also I Use 👨‍💻
 > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 > ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
