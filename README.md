@@ -67,3 +67,12 @@ const Esleban = {
 
 ### Certifications 📜
 ![Microsoft](https://img.shields.io/badge/Microsoft-f4ba1c?style=for-the-badge&logo=microsoft&logoColor=black) <a href="https://www.credly.com/badges/ceb529f3-5ac9-4b24-8603-0b252ed5cc05/public_url">Certified for Azure Fundamentals (AZ 900) </a>
+
+### Topics of Interest 💬
+- Algorithmics 🧠
+- Data Structures 📊
+- Cloud Computing ☁️
+- Web Development 🌐
+- Data Science ⚗️📊
+- AI 🤖
+
