@@ -30,24 +30,27 @@ I'm a versatile developer, with experience in building web platforms.<br>I like 
 ```javascript
 const Esleban = {
     pronouns: "He" | "Him ",
-    code: ["JavaScript", 'HTML', 'CSS', 'Python' ],
-    askMeAbout: ["Web dev", "Tech", "Disney movies", ],
+    code: ["JavaScript", "TypeScript" ],
+    askMeAbout: ["Web dev", "Tech", "Disney movies"],
     technologies: {
         backend: {
             js: ["NodeJS", "Express"],
+            socket: ["Socket.io"],
+            documentation: ["Swagger", "Postman"],
+            databases: ["PostgreSQL", "mySQL", "MongoDB"],
+            testing: ["Jest"]
         },
         frontend: {
             css: ["CSS", "Tailwind"],
-            html: ["HTML", "Pug" ],
+            html: ["HTML", "Pug"],
             js: ["Angular"]
         },
         tools: {
             versionControl: ["Git", "GitHub"],
-            testing: ["Jest"],
             devOps: ["GitHub Actions"],
             desing: ["Photoshop", "Illustrator", "Figma"]
         },
-        databases: ["SQL", "MySQL", "PostgreSQL"]
+        
     },
     challenge: "I am doing the #100DaysOfCode challenge focused on Javascript and Typescript"
 };
@@ -63,7 +66,9 @@ const Esleban = {
 > ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### I'm currently learning 📙:
-> ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 > ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 > ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+> 
+### Certifications
+![Microsoft](https://img.shields.io/badge/Microsoft-f4ba1c?style=for-the-badge&logo=microsoft&logoColor=black) <a href="https://www.credly.com/badges/ceb529f3-5ac9-4b24-8603-0b252ed5cc05/public_url">Certified for Azure Fundamentals (AZ 900) </a>
 
